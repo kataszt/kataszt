@@ -7,7 +7,7 @@ Welcome to my Git!
 Here are some Basic informations about me:
 
 - 🔭 I’m currently working on a full-time student, and a part-time Property advisor at a company
-- 🌱 I’m currently learning Business Informatics Major on University of Pannonia, im in my second year here, it is quite cool. I'm leaning more into the coding / programming than the business model itself, so it is quite cool in my opinion! 
+- 🌱 I’m currently learning Business Informatics Major on University of Pannonia, im in my second year here, it is quite cool. \n I'm leaning more into the coding / programming than the business model itself, so it is quite cool in my opinion! 
       - The programming languages that I am familiar and know some about is: 
         - Python
         - Basic Webdev langs (HTML, JS, CSS)
@@ -36,4 +36,7 @@ Here are some Basic informations about me:
   
      - I am a gamer myself. I was born and raised in a quite modern family, I was first introduced to 'gaming' by my parents when I was 2 years old! They played Solitaire, and I truly liked it, even though I was pretty much just clicking the large cards from side to side
        Currently I play WoW, and League, but on a casual basis, so I am not a highly competetive player
-     - I truly love listening to music 
+     - I truly love listening to music, like ask me for a playlist, then I would prolly give you a 200+ songs playlist of that genre
+     - with that I am learning to play the guitar, you can never be good enough in that in my opinion
+
+## Thanks for reading all that! Have a wonderful day! 👋
