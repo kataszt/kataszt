@@ -7,7 +7,7 @@ Welcome to my Git!
 Here are some Basic informations about me:
 
 - 🔭 I’m currently working on a full-time student, and a part-time Property advisor at a company
-- 🌱 I’m currently learning Business Informatics Major on University of Pannonia, im in my second year here, it is quite cool. \n I'm leaning more into the coding / programming than the business model itself, so it is quite cool in my opinion! 
+- 🌱 I’m currently learning Business Informatics Major on University of Pannonia, im in my second year here, it is quite cool. I'm leaning more into the coding / programming than the business model itself, so it is quite cool in my opinion! 
       - The programming languages that I am familiar and know some about is: 
         - Python
         - Basic Webdev langs (HTML, JS, CSS)
