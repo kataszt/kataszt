@@ -8,24 +8,25 @@ Here are some Basic informations about me:
 
 - 🔭 I’m currently working on a full-time student, and a part-time Property advisor at a company
 - 🌱 I’m currently learning Business Informatics Major on University of Pannonia, im in my second year here, it is quite cool. I'm leaning more into the coding / programming than the business model itself, so it is quite cool in my opinion! 
-      - The programming languages that I am familiar and know some about is: 
-        - Python
-        - Basic Webdev langs (HTML, JS, CSS)
-        - C# (still learning it, quite hard to learn by myself)
-        - I truly like DSA, but I need to sharpen that skill, but I find it interesting
+- The programming languages that I am familiar and know some about is: 
+  - Python
+  - Basic Webdev langs (HTML, JS, CSS)
+  - C# (still learning it, quite hard to learn by myself)
+  - I truly like DSA, but I need to sharpen that skill, but I find it interesting
 - If you have any tips tricks for me to "Level up" just share your ideas! 
 - 🤔 I’m looking for help in mostly all programming languages, I just want to be able to work in this industry for a lifetime
 - 💬 If you have any question for me, you can
-        - 📫  reach me:
-      On instagram:
-              - @fekatica
-      On email:
-          szedlacsekd@gmail.com
-       even on Messenger:
-          Dominik Szedlacsek
-      or on twitter ( I ain't gonna call it on it's current name):
-          @sz_domdom
-      So I'm on most socials!
+- 📫  reach me:
+- On **instagram**:
+      - @fekatica
+
+- **On email**:
+        - szedlacsekd@gmail.com
+- Even on **Messenger**:
+        - Dominik Szedlacsek
+- or on **twitter** ( I ain't gonna call it on it's current name):
+        - @sz_domdom
+- _So I'm on most socials!_
 - ⚡ Fun fact:
      - I truly love learning languages, both programming and basic languages:
          - Hungarian  
